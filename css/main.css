@@ -1,6 +1,12 @@
 body {
+<<<<<<< Updated upstream
 	background-color: red;
 }
+=======
+	background: blue;
+}
+
+>>>>>>> Stashed changes
 .navigation__list {
     list-style-type: none;
     width:  1140px;
